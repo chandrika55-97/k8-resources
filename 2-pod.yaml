@@ -9,4 +9,5 @@ spec:
   - name: nginx
     image: nginx
     # ports:
-    # - containerPort: 80
+    # - containerPort: 80 
+    #this port we can or we can't give also work in public  beacuse 80 is public
