@@ -5,6 +5,7 @@ metadata:
 
 spec:
   containers:
+ # docker run -d --name nginx nginx
   - name: nginx
     image: nginx
     # ports:
